@@ -18,7 +18,11 @@
   },
   "homepage": "https://github.com/me-hana/nodejs-master#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "body-parser": "^1.19.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "express-session": "^1.17.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
